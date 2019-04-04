@@ -1,0 +1,8 @@
+/home/circleci/erc721x/
+/home/circleci/erc721x/contracts
+/home/circleci/erc721x/contracts/Core
+/home/circleci/erc721x/contracts/Interfaces
+/home/circleci/erc721x/contracts/Libraries
+/home/circleci/erc721x/migrations
+/home/circleci/erc721x/scripts
+/home/circleci/erc721x/test
